@@ -3,7 +3,7 @@
 I have created this fix after all other fixes I found on the internet failed.
 If you ended up here you might be in the same position.
 
-This fix is intended for Enshroud, but might work for other games too.
+This fix is intended for Enshrouded, but might work for other games too.
 
 NOTE: I have created it on 17.07.2024 - might not be applicable to newer versions of the game, HOWEVER below you can find how I did it and perhaps follow my steps.
 
