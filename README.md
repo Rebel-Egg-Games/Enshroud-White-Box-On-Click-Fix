@@ -7,7 +7,7 @@ This fix is intended for Enshrouded, but might work for other games too.
 
 NOTE: I have created it on 17.07.2024 - might not be applicable to newer versions of the game, HOWEVER below you can find how I did it and perhaps follow my steps.
 
-Bug example:
+Bug example (see white box on the left edge of the screen):
 ![alt text](https://github.com/Rebel-Egg-Games/Enshroud-White-Box-On-Click-Fix/blob/main/whiteboxexample.jpg)
 
 
